@@ -31,7 +31,8 @@ Available Scripts
 
 Technologies Used
 
-Deployment
+Deployment Link
+react-js-jsx-and-css-mastering-front-end-development-68vmf14xe.vercel.app
 
 License
 
